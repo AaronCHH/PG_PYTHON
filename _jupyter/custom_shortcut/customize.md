@@ -7,6 +7,10 @@ C:\Anaconda3\envs\py34\Lib\site-packages\notebook\static\custom
 C:\Python27\ArcGIS10.1\Lib\site-packages\notebook\static\custom
 ```
 
+```
+C:\Anaconda36\pkgs\notebook-4.4.1-py36_0\Lib\site-packages\notebook\static\custom
+```
+
 ```javascript
 $([IPython.events]).on("app_initialized.NotebookApp", function () {
 
